@@ -10,3 +10,4 @@
 ## Gif
 
 ![Proje Tanıtım GIF'i](src/assets/Kayıt-2024-09-29-172325.gif)
+
